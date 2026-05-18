@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>DictationApp updates</title>
+        <link>https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/appcast.xml</link>
+        <description>Sparkle update feed for DictationApp (macOS).</description>
+        <language>en</language>
+        <!-- Releases will be added below as <item> entries by the release script. -->
+    </channel>
+</rss>
