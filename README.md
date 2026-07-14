@@ -2,7 +2,7 @@
 
 Public auto-update feeds and binaries for macOS applications by Stepan Solodnev (Sleepy Coach, Inc).
 
-Each application has its own folder containing a Sparkle `appcast.xml` manifest and the released `.zip` builds.
+Each application has its own folder containing a Sparkle `appcast.xml` manifest, a notarized `.dmg` for first installation, and signed `.zip` builds for automatic updates.
 
 ## Apps
 
