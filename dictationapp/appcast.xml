@@ -7,6 +7,25 @@
         <link>https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/appcast.xml</link>
         <description>Sparkle update feed for DictationApp (macOS).</description>
         <language>en</language>
-        <!-- Releases will be added below as <item> entries by the release script. -->
+        <item>
+            <title>Version 0.5.0</title>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Short dictations up to 5 seconds now use Friend ASR first, with Groq fallback for slow or unsuitable results.</li>
+                    <li>Silence handling is more robust, reducing phantom text on very short recordings.</li>
+                    <li>Network latency diagnostics can detect and recover from a degraded upload connection.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 14 Jul 2026 17:14:14 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/DictationApp-0.5.0.zip"
+                sparkle:edSignature="lsqIUWcD4Vl/Si/5atbLfLzhziluiWPaoZnBce9H3Dp2WPgf77I56kfvrtY1LhQNTKhZGUG3zRxf4ITunFA5Ag=="
+                length="4012663"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
     </channel>
 </rss>
