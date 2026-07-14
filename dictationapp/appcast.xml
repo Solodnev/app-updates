@@ -8,6 +8,26 @@
         <description>Sparkle update feed for DictationApp (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.5.2</title>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Adds a polished first-install DMG with the DictationApp icon and an Applications shortcut.</li>
+                    <li>Separates friend authentication from development builds, preventing repeated Keychain password prompts.</li>
+                    <li>Requires one normal browser sign-in after installation; future Sparkle updates preserve the friend session.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 14 Jul 2026 21:44:15 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/DictationApp-0.5.2.zip"
+                sparkle:edSignature="YeaRhsPPQODWip6NMvkB40WP79UrFOUbRZ1vUX2wRp1+2GaYH/7Ea3OCl1wXKLzKj3sZikOt4fC2hyNIiGtABA=="
+                length="5213287"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.5.1</title>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
