@@ -8,22 +8,22 @@
         <description>Sparkle update feed for DictationApp (macOS).</description>
         <language>en</language>
         <item>
-            <title>Version 0.5.0</title>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <title>Version 0.5.1</title>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
             <description><![CDATA[
                 <h3>What's new</h3>
                 <ul>
+                    <li>Fixes first installation when the release ZIP is downloaded and extracted by Chrome or another standard ZIP tool.</li>
                     <li>Short dictations up to 5 seconds now use Friend ASR first, with Groq fallback for slow or unsuitable results.</li>
-                    <li>Silence handling is more robust, reducing phantom text on very short recordings.</li>
                     <li>Network latency diagnostics can detect and recover from a degraded upload connection.</li>
                 </ul>
             ]]></description>
-            <pubDate>Tue, 14 Jul 2026 17:14:14 +0000</pubDate>
+            <pubDate>Tue, 14 Jul 2026 20:15:07 +0000</pubDate>
             <enclosure
-                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/DictationApp-0.5.0.zip"
-                sparkle:edSignature="lsqIUWcD4Vl/Si/5atbLfLzhziluiWPaoZnBce9H3Dp2WPgf77I56kfvrtY1LhQNTKhZGUG3zRxf4ITunFA5Ag=="
-                length="4012663"
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/DictationApp-0.5.1.zip"
+                sparkle:edSignature="U9me8RzpwqkPqh22aihElQioi9kyw2u49NXZdGBNA6oOhDaXLn/Xo6MYy5eWRTt6rN5pCt3u+SaAzCNbas0gDg=="
+                length="3949565"
                 type="application/octet-stream"/>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
