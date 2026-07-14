@@ -8,6 +8,24 @@
         <description>Sparkle update feed for DictationApp (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.5.3</title>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Fixes returning users being sent through onboarding again while their saved sign-in session is still restoring.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 14 Jul 2026 22:19:02 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/DictationApp-0.5.3.zip"
+                sparkle:edSignature="9qKKb5es9XBfYKmqeH4bYrmpzVD7AmNOb9VkP6Oa+f0wV3bpnyTVKDi/E//jGvWhxyKZlRMmwAucCJ21rM/yBA=="
+                length="5214442"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.5.2</title>
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
