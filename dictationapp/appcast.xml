@@ -3,10 +3,30 @@
      xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>DictationApp updates</title>
+        <title>Scribe updates</title>
         <link>https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/appcast.xml</link>
-        <description>Sparkle update feed for DictationApp (macOS).</description>
+        <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
+        <item>
+            <title>Version 0.6.0</title>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Adopts Scribe as the official product name across the app and installer.</li>
+                    <li>Adds the official black Scribe app icon.</li>
+                    <li>Preserves existing sign-in sessions, permissions, and automatic updates through the rebrand.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 15 Jul 2026 10:31:54 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.6.0.zip"
+                sparkle:edSignature="undfjIoSmKS3xOHNld3rHqC7RbNG7fw8IQUMDIZ/qbH4L8Icbtcb5QBGlcp5y7K1ClvOJK5rfv4hAm43ZcOgBg=="
+                length="4444245"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
         <item>
             <title>Version 0.5.3</title>
             <sparkle:version>12</sparkle:version>
