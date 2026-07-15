@@ -8,6 +8,25 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.6.2</title>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Replaces the mistakenly shipped legacy icon with the official indigo Scribe voice-to-text icon.</li>
+                    <li>Keeps existing sign-in sessions, permissions, and automatic updates intact.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 15 Jul 2026 11:17:39 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.6.2.zip"
+                sparkle:edSignature="AYRJ7WUK/q8ntuQUDwi3rdi9uxICcjbx1MqufZiiQjgqZBeX9qOKGK+4K7D2STGA/URNJjnS/aOPtGhXFWIpAA=="
+                length="5721883"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.6.1</title>
             <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
