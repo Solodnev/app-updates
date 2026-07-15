@@ -15,7 +15,6 @@
                 <h3>What's new</h3>
                 <ul>
                     <li>Introduces the redesigned main screen and refined dictation history.</li>
-                    <li>Allows semantic paragraph breaks when one topic contains distinct subtopics.</li>
                     <li>Omits the final period for a single phrase dictated into an empty Telegram composer.</li>
                 </ul>
             ]]></description>
