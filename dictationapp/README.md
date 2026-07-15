@@ -1,8 +1,8 @@
-# DictationApp updates
+# Scribe updates
 
-Sparkle feed and release archives for DictationApp.
+Sparkle feed and release archives for Scribe.
 
 - **Feed URL** (embedded in app's `SUFeedURL`): `https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/appcast.xml`
 - **Manifest**: [`appcast.xml`](appcast.xml)
-- **First install**: [`DictationApp-0.5.3.dmg`](DictationApp-0.5.3.dmg) (notarized, stapled, with an Applications shortcut)
-- **Sparkle builds**: `DictationApp-X.Y.zip` (notarized, stapled, EdDSA-signed)
+- **First install**: [`Scribe-0.6.0.dmg`](Scribe-0.6.0.dmg) (notarized, stapled, with an Applications shortcut)
+- **Sparkle builds**: `Scribe-X.Y.zip` (notarized, stapled, EdDSA-signed)
