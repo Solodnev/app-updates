@@ -8,6 +8,26 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.6.1</title>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Completes the Scribe rename in Finder and other macOS surfaces.</li>
+                    <li>Keeps existing sign-in sessions, permissions, and automatic updates intact.</li>
+                    <li>Continues to use the official Scribe app icon.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 15 Jul 2026 10:53:47 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.6.1.zip"
+                sparkle:edSignature="zv1ApAokOXOtSG8EaYo3nTOahQ3Om3zPhOZrjCBKb+d2ZxVJFgphyXH68PTvrRU/8K2KZdg4Yavdop731jW5DQ=="
+                length="4445321"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.6.0</title>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
