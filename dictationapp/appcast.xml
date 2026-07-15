@@ -8,6 +8,25 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.7.1</title>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Adds a Permissions section so microphone and Accessibility status are visible in the app.</li>
+                    <li>Restores guarded automatic insertion in Codex and Claude Desktop when their Accessibility tree is cold or unresponsive.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 15 Jul 2026 15:46:08 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.7.1.zip"
+                sparkle:edSignature="QwjrlpTaQQK60nlYEXpJVY/5TbtKJYD9uyjrSQrGLEl+hrfVryJUGctXWBJ64mLMq84L/nd9rng1lzjBhHgoBg=="
+                length="5735202"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.7.0</title>
             <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
