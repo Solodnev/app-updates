@@ -8,7 +8,7 @@ Each application has its own folder containing a Sparkle `appcast.xml` manifest,
 
 | App | Bundle ID | Feed URL |
 |---|---|---|
-| DictationApp | `com.stepan.dictation*` | [`dictationapp/appcast.xml`](dictationapp/appcast.xml) |
+| Scribe | `com.stepan.dictation*` | [`dictationapp/appcast.xml`](dictationapp/appcast.xml) |
 
 ## How it works
 
