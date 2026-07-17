@@ -8,6 +8,26 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.7.2</title>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Improves context-aware capitalization and spacing in ChatGPT/Codex after a clean launch by keeping its editor context available through read-only Accessibility queries.</li>
+                    <li>Makes sentence-boundary spacing part of the paste payload, avoiding a delayed trailing Space and improving insertion reliability.</li>
+                    <li>Hardens account-scoped History, feedback recording lifecycle, and release provenance.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 17 Jul 2026 20:32:59 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.7.2.zip"
+                sparkle:edSignature="NxKJuVoz8S0P8jo8jDbEwteXNNVsbrVmIW1GqjI48nA2Xn/NxSDvQIJWPzFZbiDh/xQhsT8i0rFf8ASoWrqkBw=="
+                length="5838371"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.7.1</title>
             <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
