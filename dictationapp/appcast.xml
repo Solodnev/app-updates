@@ -8,6 +8,26 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.7.3</title>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Improves insertion into selected text fields on YouTube, Google Search, and other Chromium pages when the Accessibility tree is temporarily unavailable.</li>
+                    <li>Enables the proven clean-install Codex fast path and in-payload boundary spacing by default, while retaining explicit rollback switches.</li>
+                    <li>Keeps ChatGPT/Codex context-aware capitalization and spacing available through read-only Accessibility queries.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 18 Jul 2026 11:39:05 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.7.3.zip"
+                sparkle:edSignature="GS2hIg07amYoAWEfyesu0gY5TzL8RgRlmO+8elYGuR3dcpPhd94Zair5ryVfZu5C+QGpxbkMcJHIubMYZ3JJAA=="
+                length="5861092"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.7.2</title>
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>

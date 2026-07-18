@@ -1,0 +1,16 @@
+manifest_version=2
+source_git_sha=e003506792a9283affaba7ae4c591dd932af19ed
+source_git_dirty=false
+source_toolchain=Xcode 26.6;Build version 17F113
+built_at=2026-07-18T11:36:11Z
+app_version=0.7.3
+build_number=19
+team_id=H849V7ARTA
+friend_id=none
+token_sha256_16=none
+notarized=true
+update_artifact=Scribe-0.7.3.zip
+update_artifact_sha256=86239d420749941beba328e647e4966b7ed4d806a9c04a8ff9b961aa1cf720ae
+first_install_artifact=Scribe-0.7.3.dmg
+first_install_artifact_sha256=b8cc648ab2acbec75494542daab706f67f391293ec311747eff4210c56d2a132
+app_executable_sha256=db5a75930e35d83abbe96e040e675d71e556da5d4c2112bc2b85836e0f72f104
