@@ -8,6 +8,26 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.7.4</title>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Fixes fast Telegram sends that could incorrectly fall back to the “copy text” prompt even though the selected composer accepted the paste.</li>
+                    <li>Adds Escape cancellation while a dictation is still being delivered, with a short undo option for accidental cancellation.</li>
+                    <li>Keeps the accepted clipboard safety, feedback, required sign-in, and automatic-update defaults enabled for friend builds.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 19 Jul 2026 19:23:00 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.7.4.zip"
+                sparkle:edSignature="YbUItUZBHEPe4O2ZjkiA9RtwzuHOjC3uGaR9rEufmj4XUQfmi9I9cw7WsQyzUsb9Uj3aNoZbT1yY2+cdhVvnBw=="
+                length="5861742"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.7.3</title>
             <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
