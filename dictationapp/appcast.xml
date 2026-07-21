@@ -8,6 +8,26 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.7.5</title>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.7.5</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Adds a guided Hotkey Test in Settings that captures key-routing and dictation-stage diagnostics without interrupting normal dictation.</li>
+                    <li>Keeps submitted diagnostic reports content-free: no audio or dictated text is included.</li>
+                    <li>Improves final text delivery in Codex when its composer temporarily loses focus.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 21 Jul 2026 10:22:27 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.7.5.zip"
+                sparkle:edSignature="uAqfYVzSOry1PUUMgMY/AgIt2SH89xKXhh5j8YUu22QFkQ3ROhoOapH7FpduPDljoEJCbEYe7MAeWfHQ57Y1DA=="
+                length="5962770"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.7.4</title>
             <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
