@@ -8,6 +8,26 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.7.6</title>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.7.6</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Adds configurable on-device History retention: keep the latest 50 dictations, 7 or 30 days, one year, or indefinitely with a storage warning.</li>
+                    <li>Adds selectable text-processing modes so each dictation can use the right level of editing.</li>
+                    <li>Preserves secure sign-in across signed updates and strengthens the public app's authentication, endpoint, and update-integrity safeguards.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 23 Jul 2026 18:43:13 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.7.6.zip"
+                sparkle:edSignature="SI0vNGlV/TRuB2KooIhl5VUmphj7G6zLF9mLdQ8jzzXzlxeypShd1wuCwVNLtLOYqBx4JGL9fW0UPlwmrCcIAg=="
+                length="5661680"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.7.5</title>
             <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>0.7.5</sparkle:shortVersionString>
