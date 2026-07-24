@@ -8,6 +8,26 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.7.8</title>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>0.7.8</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Adds System, Light, and Dark appearance modes with live switching and persistence across launches.</li>
+                    <li>Redesigns Settings with a dedicated Appearance page and clearer History, microphone, and system controls.</li>
+                    <li>Improves active-field insertion, microphone fallback, and privacy-safe audio diagnostics.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 24 Jul 2026 22:57:37 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.7.8.zip"
+                sparkle:edSignature="XH5wOFNDxMn2C5DUxoC3ALc5Qi/3YSoCocdd7HAoU6/ZW/vEyqU3mJGfyKb8wru19PcyjALHAnuhP82+vsVEAg=="
+                length="5722440"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.7.7</title>
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>0.7.7</sparkle:shortVersionString>
