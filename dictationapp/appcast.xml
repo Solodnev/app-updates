@@ -8,22 +8,22 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
-            <title>Version 0.7.6</title>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>0.7.6</sparkle:shortVersionString>
+            <title>Version 0.7.7</title>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.7.7</sparkle:shortVersionString>
             <description><![CDATA[
                 <h3>What's new</h3>
                 <ul>
-                    <li>Adds configurable on-device History retention: keep the latest 50 dictations, 7 or 30 days, one year, or indefinitely with a storage warning.</li>
-                    <li>Adds selectable text-processing modes so each dictation can use the right level of editing.</li>
-                    <li>Preserves secure sign-in across signed updates and strengthens the public app's authentication, endpoint, and update-integrity safeguards.</li>
+                    <li>Fixes the launch failure in version 0.7.6 by restoring the complete Apple Developer ID authorization profile.</li>
+                    <li>Adds fail-closed launch checks to the signed app, Sparkle ZIP, and first-install DMG before publication.</li>
+                    <li>Keeps configurable History retention, selectable text-processing modes, and secure sign-in from 0.7.6.</li>
                 </ul>
             ]]></description>
-            <pubDate>Thu, 23 Jul 2026 18:43:13 +0000</pubDate>
+            <pubDate>Fri, 24 Jul 2026 12:03:24 +0000</pubDate>
             <enclosure
-                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.7.6.zip"
-                sparkle:edSignature="SI0vNGlV/TRuB2KooIhl5VUmphj7G6zLF9mLdQ8jzzXzlxeypShd1wuCwVNLtLOYqBx4JGL9fW0UPlwmrCcIAg=="
-                length="5661680"
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.7.7.zip"
+                sparkle:edSignature="oZihUGnWM4ecE6r0STQAxIouckoUgNml2FXgyntwCMmnQQtsaR7H2Pln33xXS1WqNTLYCF4uqamBxNdWwa7oAg=="
+                length="5621893"
                 type="application/octet-stream"/>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
