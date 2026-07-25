@@ -8,6 +8,26 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.7.9</title>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.7.9</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Adds an Appearance option to keep the Scribe Bar visible at all times.</li>
+                    <li>Refines Settings navigation, text-style placement, and descriptions across the app.</li>
+                    <li>Improves the reliability of text insertion and the signed release verification flow.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 25 Jul 2026 18:17:00 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.7.9.zip"
+                sparkle:edSignature="3oZVawOdeiS7VFanqAQIyg+RtU+02QT0+Y3mjRgvIob7iCzcR6I1+GfdV7bEKfhVUj6k0I6lSr7BBx2Tx6BPAg=="
+                length="5733778"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.7.8</title>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>0.7.8</sparkle:shortVersionString>
