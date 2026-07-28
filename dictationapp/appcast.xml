@@ -8,6 +8,27 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.8.0</title>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Improves smart insertion in ChatGPT for Chrome, including spacing, capitalization, punctuation, and multiline dictation.</li>
+                    <li>Extends guarded final insertion across local apps while preventing automatic paste into integrated terminals.</li>
+                    <li>Keeps Bluetooth headphones in high-quality playback while Scribe is idle and releases the headset microphone route after dictation.</li>
+                    <li>Adds an explicit Automatic microphone mode and simplifies the Scribe menu.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 28 Jul 2026 09:23:49 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.8.0.zip"
+                sparkle:edSignature="gVBZXCKOVX66iVeNeNlW3pdZ+C0y+oKvIkObzWZL5w3JHJUVXW2OKPDO7PnSrIlJj9arvILXgGCPvYxx5JW0BA=="
+                length="6033424"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.7.9</title>
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>0.7.9</sparkle:shortVersionString>
