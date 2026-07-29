@@ -1,0 +1,15 @@
+manifest_version=2
+test_mode=false
+source_git_sha=06f0a4a85a92e3f2382ee8162d38634bc4c6b6fc
+source_git_dirty=false
+source_toolchain=Xcode 26.6;Build version 17F113;xcodebuild=/Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild;swiftc=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc;clang=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang;xcrun=/usr/bin/xcrun
+built_at=2026-07-29T20:31:03Z
+app_version=0.8.2
+build_number=28
+team_id=H849V7ARTA
+notarized=true
+update_artifact=Scribe-0.8.2.zip
+update_artifact_sha256=68a05edcc8f1497b911e3353f3074b321562a7c43de9445dbb9e8c14a699fa54
+first_install_artifact=Scribe-0.8.2.dmg
+first_install_artifact_sha256=c13f9240a25eee3130cdb5fbcbc604a3246295883315bdd4446ac838ddf9b29e
+app_executable_sha256=879f3ba5dd0a41dee8ca832bc55fd5f3ddd38c09bc12d57bc8af330d3ae17187
