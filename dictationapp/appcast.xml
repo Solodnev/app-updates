@@ -8,6 +8,26 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.8.3</title>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.8.3</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Keeps Bluetooth headphones on high-quality stereo output when Scribe records through the Mac microphone, including idle reconnects.</li>
+                    <li>Prevents the global hotkey from starting dictation until onboarding is complete.</li>
+                    <li>Adds the new Scribe logo and refines Appearance and menu bar settings.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 01 Aug 2026 19:26:55 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.8.3.zip"
+                sparkle:edSignature="MDD8MSwND9b1BL/YFUufFv8uIedeCJ8Qb6Odbx4gB6Yrsb8SyiuOC/UyhTwX89zUmNiz95+Y019UIzRQYaA+AA=="
+                length="6064165"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.8.2</title>
             <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
