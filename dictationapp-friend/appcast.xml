@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Scribe Friend updates</title>
+        <link>https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp-friend/appcast.xml</link>
+        <description>Private dogfood update feed for Scribe Friend (macOS).</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.8.4</title>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.8.4</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Adds Scribe v2, Scribe v2 Realtime, and Custom recognition modes.</li>
+                    <li>Supports reusable Custom ASR profiles with arbitrary JSON request fields, headers, audio formats, and streamed NDJSON responses.</li>
+                    <li>Uses a separate signed identity, account session, permissions, and update channel for external testing.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 04 Aug 2026 22:12:28 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp-friend/Scribe-Friend-0.8.4.zip"
+                sparkle:edSignature="lKzrDnwS0IUdbjHboTXelVMN9RTY+vMRzrs+3BumP2XVOXBHTUSr9YGvD0DzkIxhjKt8FuUo/lGchOLNjSC8AA=="
+                length="6370262"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
