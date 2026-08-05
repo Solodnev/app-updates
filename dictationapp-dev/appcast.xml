@@ -4,6 +4,20 @@
         <title>Scribe Dev</title>
         <item>
             <title>0.8.3</title>
+            <pubDate>Wed, 05 Aug 2026 16:42:40 +0300</pubDate>
+            <sparkle:version>20260805133754</sparkle:version>
+            <sparkle:shortVersionString>0.8.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp-dev/Scribe-Dev-0.8.3-20260805133754.zip" length="6378438" type="application/octet-stream" sparkle:edSignature="nKH0nsfeHVIFmt0h/Kjjq0pqw1fGsVciEfEEDMsBuHqmpr78sqvu5yHpzBrEDUiFwWsK4dDAiMXXzMv5C4d0DA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp-dev/Scribe%20Dev20260805133754-20260805131511.delta" sparkle:deltaFrom="20260805131511" length="355270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XzBQf+8emFF3EjjUiR3QdE4JTB95onxh3jeh2G65gPHZkATHLYQBqDA4zbh2NbHdSufqw2lKdfvqDcXNuz9hDw=="/>
+                <enclosure url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp-dev/Scribe%20Dev20260805133754-20260805124019.delta" sparkle:deltaFrom="20260805124019" length="398202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="j1C+zkb6E37aM3XWbv4WWonhUMYeQR9WvVb8rcaEuE/ZpoGOcMtBPqateCcBCDOll8219KM24CyG5l629zaXBA=="/>
+                <enclosure url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp-dev/Scribe%20Dev20260805133754-20260805122502.delta" sparkle:deltaFrom="20260805122502" length="398494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Yzau/Yq889FlsA3UQ8l3oK1fUZPA7es76QaeLzZlOUUo9Qc57paDnUe113uOrx/H8T70FaHtRV4sp2Y63VuJDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.8.3</title>
             <pubDate>Wed, 05 Aug 2026 16:19:44 +0300</pubDate>
             <sparkle:version>20260805131511</sparkle:version>
             <sparkle:shortVersionString>0.8.3</sparkle:shortVersionString>
@@ -26,15 +40,6 @@
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp-dev/Scribe%20Dev20260805124019-20260805122502.delta" sparkle:deltaFrom="20260805122502" length="14858" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uqR5nIWHpS4nw7kLhHO1RgMm/IB/32MdcXqVFfe217BRLbyQyRLo8gNfvpQSo+p4Eua90erV4pt68hj0TYKWAw=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.8.3</title>
-            <pubDate>Wed, 05 Aug 2026 15:28:33 +0300</pubDate>
-            <sparkle:version>20260805122502</sparkle:version>
-            <sparkle:shortVersionString>0.8.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp-dev/Scribe-Dev-0.8.3-20260805122502.zip" length="6370145" type="application/octet-stream" sparkle:edSignature="KbrMytpBiZM5xQdYJeX2vbFFBMB6lnchW+wuLh/yWBJMQXzdBU33XnNjgNxRNSZjfqWyQIhj/e3KZGGJTxOeDQ=="/>
         </item>
     </channel>
 </rss>
