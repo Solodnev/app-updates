@@ -1,0 +1,14 @@
+artifact=Scribe Dev
+bundle_id=com.stepan.dictation.dev
+version=0.8.3
+build=20260805122502
+build_id=0.8.3-20260805122502-c0e5955417ac
+source_sha=c0e5955417ac21c92bbc38b9999837be9a91c658
+source_branch=codex/scribe-v2-realtime-custom-20260803
+source_dirty=false
+build_timestamp_utc=2026-08-05T12:25:02Z
+notarized=true
+sparkle_feed_url=https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp-dev/appcast.xml
+zip_sha256=e35b76bb879989ce4ecb29a70c9beb016807e9e32eb3f0bbd2fd36d80c488653
+dmg_sha256=50c82d48163c44d0d1f2217750d2e6abab97cc2f457cfe5bd91e6d63612bfaef
+sparkle_enclosure=sparkle:edSignature="KbrMytpBiZM5xQdYJeX2vbFFBMB6lnchW+wuLh/yWBJMQXzdBU33XnNjgNxRNSZjfqWyQIhj/e3KZGGJTxOeDQ==" length="6370145"
