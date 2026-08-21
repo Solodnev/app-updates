@@ -8,6 +8,26 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.8.4</title>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.8.4</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's new</h3>
+                <ul>
+                    <li>Adds a registration-free Trial and a clearer subscription and account experience.</li>
+                    <li>Refines onboarding, Settings, History, and privacy-safe diagnostics.</li>
+                    <li>Improves dictation delivery and hardens release and update reliability.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 21 Aug 2026 21:34:21 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.8.4.zip"
+                sparkle:edSignature="85UjisQEe2EQPu2IPJofHbNM3ICqHQCVP8GbkdVMZ88JXyEZxSmzx9i/bXkOmWH8Nqhb0uqHSUhXPExsAqOFBA=="
+                length="6563125"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.8.3</title>
             <sparkle:version>29</sparkle:version>
             <sparkle:shortVersionString>0.8.3</sparkle:shortVersionString>
