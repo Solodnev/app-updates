@@ -1,0 +1,9 @@
+{
+  "schema": "scribe-memory-tests-deferred-20260917",
+  "source_commit": "f890b7ad58f82bd32f32e375e8f2ef6f81861419",
+  "release_version": "0.8.8",
+  "build_number": "34",
+  "approved_by": "release_owner",
+  "decision_date": "2026-09-17",
+  "status": "deferred_not_passed"
+}
