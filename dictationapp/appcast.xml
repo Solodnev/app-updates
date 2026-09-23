@@ -8,6 +8,24 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.8.15</title>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>0.8.15</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>Что нового</h3>
+                <ul>
+                    <li>Улучшена диагностика горячей клавиши и восстановления доступа для поиска редких сбоев.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 23 Sep 2026 11:43:41 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.8.15.zip"
+                sparkle:edSignature="fTgSlmQLAYTLV1CiAWK1etVcrikVkaYnFMVV0lpablCaG6qRZOM+KeDE7V0QHSxkMFuIN8xPRk7LrSpPHi+PCw=="
+                length="6741341"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.8.14</title>
             <sparkle:version>40</sparkle:version>
             <sparkle:shortVersionString>0.8.14</sparkle:shortVersionString>
