@@ -8,6 +8,25 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.8.16</title>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>0.8.16</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>Что нового</h3>
+                <ul>
+                    <li>Улучшено восстановление записи при нехватке памяти и сохранение незавершённой диктовки.</li>
+                    <li>Расширена диагностика работы защиты памяти.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 24 Sep 2026 11:44:31 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.8.16.zip"
+                sparkle:edSignature="qNQ3F0lAhqJxSndjo4b7S6rtQROYwhFx+UGiBPPmhj1PfOzIXSF2ujyFjcsMCh8auppAJk967rDE0kMNyzDCCQ=="
+                length="6765900"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.8.15</title>
             <sparkle:version>41</sparkle:version>
             <sparkle:shortVersionString>0.8.15</sparkle:shortVersionString>
