@@ -8,6 +8,25 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.8.18</title>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>0.8.18</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>Что нового</h3>
+                <ul>
+                    <li>Проверка обновлений доступна в главном меню Scribe и внизу раздела «Аккаунт», а также в меню значка рядом с часами.</li>
+                    <li>Кнопка «Проверить обновления» отображается полностью.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 30 Sep 2026 16:34:07 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.8.18.zip"
+                sparkle:edSignature="4raQni1Jb1qzOUgyCvfU2K+xti0IpWv9n2kL4SSaDWFO8J7sztOYYqgOCvRIC9waGkojxThlxCk6kkE+yGg3DQ=="
+                length="6913395"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.8.17</title>
             <sparkle:version>50</sparkle:version>
             <sparkle:shortVersionString>0.8.17</sparkle:shortVersionString>
