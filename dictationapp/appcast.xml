@@ -8,6 +8,27 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.8.19</title>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>0.8.19</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>Что нового</h3>
+                <ul>
+                    <li>При превышении времени обработки приложение завершает ожидание и сообщает об ошибке.</li>
+                    <li>Поздний ответ после тайм-аута не вставляется в документ.</li>
+                    <li>При доступном сохранённом аудио приложение подсказывает, где восстановить запись.</li>
+                    <li>Расширена техническая диагностика для разбора сбоев диктовки.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 01 Oct 2026 11:28:31 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.8.19.zip"
+                sparkle:edSignature="yUWYLKAY8F3jaHEj6HbDFNbvGu6ENkAzdqJ8k3LdI14Vf6ANPNOLDR4Xq+mkCfSMqarJtrpjZ81UIhHTJmoGAA=="
+                length="6938793"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.8.18</title>
             <sparkle:version>51</sparkle:version>
             <sparkle:shortVersionString>0.8.18</sparkle:shortVersionString>
