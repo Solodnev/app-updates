@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "build": "53",
+    "source_sha": "5f03372e3ac32b3d7839c1bb2b7d8db04da0b1ae",
+    "version": "0.8.20"
+  },
+  "final_artifacts": {
+    "first_install_dmg_sha256": "979eb8b7a057c936bc4ffd891a5270bbf4f14b1a2f75cc231973780013928887",
+    "sparkle_zip_sha256": "12aec7a6e1804b4d1248a8d5566f3be416b9ac209fdcd9e71af3fca4e449fc08"
+  },
+  "first_install_dmg_submission": {
+    "status": "Accepted",
+    "submitted_artifact_sha256": "7d434d75881b0ac4a5a8bd62aab01324b49bf224b84d2714d945c340f527b5a2",
+    "transaction_id": "e0252f8f-3608-46d8-8822-4352fde616a0"
+  },
+  "release_manifest_sha256": "9bdaa99cfcee427af33c273144742c4cddf09892f648730b766fd933dfd8e181",
+  "schema_version": 1,
+  "sparkle_zip_submission": {
+    "status": "Accepted",
+    "submitted_artifact_sha256": "d86c0d5eea7b77d279f5d3cf4cf9821a2c875ae2c0567c4f9826f0ede4d0f56c",
+    "transaction_id": "62d558de-4618-4bd6-aa67-a40226596027"
+  }
+}

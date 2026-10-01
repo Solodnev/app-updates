@@ -1,0 +1,19 @@
+{
+  "app": {
+    "build": "53",
+    "bundle_id": "com.stepan.dictation",
+    "executable_sha256": "9f46deccc307ee93fe9f7d2c1b95785ddbdaed0a6857392cc9647c492fbd6ca1",
+    "version": "0.8.20"
+  },
+  "artifact": "Scribe-0.8.20.dmg",
+  "artifact_sha256": "979eb8b7a057c936bc4ffd891a5270bbf4f14b1a2f75cc231973780013928887",
+  "gatekeeper_accepted": true,
+  "notarization": {
+    "status": "Accepted",
+    "submitted_artifact_sha256": "7d434d75881b0ac4a5a8bd62aab01324b49bf224b84d2714d945c340f527b5a2",
+    "transaction_id": "e0252f8f-3608-46d8-8822-4352fde616a0"
+  },
+  "notarized": true,
+  "schema_version": 2,
+  "stapler_validated": true
+}
