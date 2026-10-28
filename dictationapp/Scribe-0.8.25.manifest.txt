@@ -1,0 +1,18 @@
+manifest_version=3
+memory_safety_release_status=MEMORY_SAFETY_RELEASE_ALLOWED_SOAK_ARMS_DEFERRED_NOT_PASSED
+test_mode=false
+source_git_sha=c59ffedd62142d5e97014fdbec806aeee4044b72
+source_git_dirty=false
+source_toolchain=Xcode 27.1;Build version 27A9275;xcodebuild=/Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild;swiftc=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc;clang=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang;xcrun=/usr/bin/xcrun
+built_at=2026-10-28T22:31:32Z
+app_version=0.8.25
+build_number=58
+team_id=H849V7ARTA
+notarized=true
+public_release_channel=standard
+public_identity_mode=anonymous-email
+update_artifact=Scribe-0.8.25.zip
+update_artifact_sha256=a2871abbab657a1a64bea28c2508b2481cb89e2bca5dec8c5e831861128eb97f
+first_install_artifact=Scribe-0.8.25.dmg
+first_install_artifact_sha256=9aca54b4a18d307d52ff03200ade851695dd512776df389fa51f107bf9f94dda
+app_executable_sha256=dfdc3bfababc46f8c3cf851017007f8a53f93b232e0d498c9940190c4feecf57
