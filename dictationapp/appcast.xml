@@ -8,6 +8,15 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.8.27</title>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>0.8.27</sparkle:shortVersionString>
+            <description><![CDATA[<h3>Что нового</h3><ul><li>Улучшена техническая диагностика диктовки.</li></ul>]]></description>
+            <pubDate>Mon, 02 Nov 2026 13:00:46 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.8.27.zip" sparkle:edSignature="zqG63fvZGaWGwi2bMhNq2lLGKfDPPDuNXq4kGjGo7TX8BiYPEO9vuf0MC42nSdPpOoKNzRiq/HQljNg17SMPAQ==" length="7363502" type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.8.26</title>
             <sparkle:version>59</sparkle:version>
             <sparkle:shortVersionString>0.8.26</sparkle:shortVersionString>
