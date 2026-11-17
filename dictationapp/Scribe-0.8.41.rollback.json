@@ -1,0 +1,17 @@
+{
+  "bad_release_action": "remove-appcast-item",
+  "candidate": {
+    "build": "74",
+    "source_sha": "b466f0bb6914594dd3aa7740e8884cdbc25f2991",
+    "version": "0.8.41"
+  },
+  "installed_client_recovery": "publish-higher-build",
+  "minimum_recovery_build": 75,
+  "preserve_bad_artifacts": true,
+  "previous_appcast_release": {
+    "build": "60",
+    "version": "0.8.27"
+  },
+  "release_manifest_sha256": "283419add5314f40182d688d23df81aef0f9d664fc86d5f928ae88a40b0be5ea",
+  "schema_version": 1
+}

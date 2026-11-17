@@ -8,6 +8,15 @@
         <description>Sparkle update feed for Scribe (macOS).</description>
         <language>en</language>
         <item>
+            <title>Version 0.8.41</title>
+            <sparkle:version>74</sparkle:version>
+            <sparkle:shortVersionString>0.8.41</sparkle:shortVersionString>
+            <description><![CDATA[<h3>Что нового</h3><ul><li>Ускорена отправка аудио после окончания записи.</li><li>История использует меньше памяти при большом количестве записей.</li><li>Уведомление о долгой обработке можно закрыть, не отменяя диктовку.</li></ul>]]></description>
+            <pubDate>Tue, 17 Nov 2026 19:11:31 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/Solodnev/app-updates/main/dictationapp/Scribe-0.8.41.zip" sparkle:edSignature="VOSgSlxxQyIFO1qJq4J+MkqaNwCD6LKdQ8aIHQmhUmdQENwThOmM+0VYVO8GygHphuPw7LWM4an+ipqMlOSHAQ==" length="7905179" type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.8.27</title>
             <sparkle:version>60</sparkle:version>
             <sparkle:shortVersionString>0.8.27</sparkle:shortVersionString>
